@@ -36,8 +36,9 @@
 						"disabled": true
 					}
 				],
+				
 				"url": {
-					"raw": "https://blogging-website-backend-1-jjlx.onrender.com/api/user",
+					"raw": "https://backend-q2pd.onrender.com/api/user",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -82,7 +83,7 @@
 					}
 				],
 				"url": {
-					"raw": "https://blogging-website-backend-1-jjlx.onrender.com/api/user",
+					"raw": "https://backend-q2pd.onrender.com/api/user",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -127,7 +128,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://blogging-website-backend-1-jjlx.onrender.com/api/users",
+					"raw": "https://backend-q2pd.onrender.com/api/users",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -172,7 +173,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://blogging-website-backend-1-jjlx.onrender.com/api/users",
+					"raw": "https://backend-q2pd.onrender.com/api/users",
 					"protocol": "https",
 					"host": [
 						"blogging-backend-k6f2",
@@ -218,7 +219,7 @@
 					}
 				},
 				"url": {
-					"raw": "https://blogging-website-backend-1-jjlx.onrender.com/api/users",
+					"raw": "https://backend-q2pd.onrender.com/api/users",
 					"protocol": "http",
 					"host": [
 						"localhost"

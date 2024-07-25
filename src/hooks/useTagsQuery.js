@@ -4,7 +4,7 @@ import React from "react";
 import axios from 'axios';
 
 const getAllTags = async () => {
-  const {data} = await axios.get(`https://blogging-website-backend-1-jjlx.onrender.com/api/tags`);
+  const {data} = await axios.get(`https://backend-q2pd.onrender.com/api/tags`);
 
 //   console.log("getCurrentUser", { data });
 

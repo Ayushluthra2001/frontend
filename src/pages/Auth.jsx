@@ -16,7 +16,7 @@ function Auth() {
       // api request to login or register
 
       const { data } = await axios.post(
-        `https://blogging-website-backend-1-jjlx.onrender.com/api/users${isRegister ? "" : "/login"}`,
+        `https://backend-q2pd.onrender.com/api/users${isRegister ? "" : "/login"}`,
         { user: values }
       );
 
